@@ -1,4 +1,4 @@
-import math
+# Source: https://www.hackerrank.com/challenges/down-to-zero-ii/problem
 from collections import deque
 
 def downToZero(num):
