@@ -1,3 +1,4 @@
+    # source : https://www.hackerearth.com/submission/53007462/
     n = int(input())
     arr = list(map(int, input().split()))
     key = int(input())
